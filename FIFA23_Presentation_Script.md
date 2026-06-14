@@ -104,7 +104,7 @@
 
 > "Chart 1 is a histogram of player Overall ratings — this is the foundation of the whole analysis.
 >
-> What you can see is that the distribution is **roughly bell-shaped**, centred around a mean of about 66. The majority of players fall between 60 and 75. Very few — maybe the top 1% — reach above 85. That red dashed line is the mean.
+> What you can see is that the distribution is **roughly bell-shaped**, centred around a mean of about 63. The majority of players fall between 60 and 75. Very few — maybe the top 1% — reach above 85. That red dashed line is the mean.
 >
 > This tells us that elite players are genuinely rare, and that FIFA's rating scale does a good job of separating average professionals from world-class talent."
 
@@ -138,7 +138,7 @@
 
 *Show the histogram.*
 
-> "Chart 4 is the age distribution. Most players are between **18 and 28 years old**, with the peak around 21 to 23. The mean age is about 25.
+> "Chart 4 is the age distribution. Most players are between **18 and 28 years old**, with the peak around 21 to 23. The mean age is about 23.
 >
 > The distribution is right-skewed — meaning there's a long tail of older players, but very few remain professional above 35. Football is physically demanding and careers are short, and the data confirms this clearly."
 
@@ -148,15 +148,15 @@
 
 *Show the scatter plot.*
 
-> "Chart 5 is one of my favourites — it's a scatter plot of **Overall vs Potential, coloured by the player's age**.
+> "Chart 5 is one of my favourites — it's a scatter plot of Overall vs Potential, coloured by the player's age.
 >
-> The red dashed diagonal line means a player has already reached their potential — their current rating equals their ceiling. Points **above** the line are players who still have room to grow.
+> The red dashed diagonal line is the reference point — if a player sits on the line, their current rating equals their ceiling, meaning no more room to grow. Points above the line are players who still have growth potential.
 >
-> What you can clearly see is that **younger players** — the lighter, yellow dots — sit well above the diagonal. They have a big gap between where they are now and where they could be.
+> What you can clearly see is that younger players — the dark purple dots — sit well above the diagonal. They have a big gap between where they are now and where they could be.
 >
-> **Older players** — the darker purple dots — cluster right along the diagonal. They've peaked.
+> Older players — the bright yellow dots — cluster closely along the diagonal, and some even fall below it, meaning they've already peaked or are past their prime.
 >
-> This is exactly what a talent scout would look for — a young player with high potential and a low current rating represents the best value for money."
+> This is exactly what a talent scout would look for — a young player sitting high above that red line represents the best value for money, because you're buying future potential at today's price."
 
 ---
 
@@ -251,7 +251,7 @@
 
 > "That brings me to the end of my presentation.
 >
-> I hope this gave you a clear picture of how exploratory data analysis can turn raw sports data into real insights. Thank you so much for listening — I'm happy to take any questions."
+> I hope this gave you a clear picture of how exploratory data analysis can turn raw sports data into real insights. Thank you so much for listening."
 
 ---
 
