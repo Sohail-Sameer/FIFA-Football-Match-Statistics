@@ -10,7 +10,7 @@
 
 *Stand confidently, make eye contact, then begin.*
 
-> "Good morning / afternoon everyone. My name is [Your Name], and today I'll be presenting my mini project on **FIFA 23 Football Player Statistics Analysis** — an Exploratory Data Analysis project built using Python.
+> "Good morning / afternoon everyone. My name is Sameer, and today I'll be presenting my mini project on **FIFA 23 Football Player Statistics Analysis** — an Exploratory Data Analysis project built using Python.
 >
 > Football is the most watched sport in the world, and behind every transfer decision, every squad selection, and every scouting report — there is data. So the idea behind this project was simple: take the official FIFA 23 player dataset, clean it up, and find meaningful patterns that could actually help someone — a club, a scout, or even a fantasy football player — make smarter decisions.
 >
@@ -249,7 +249,7 @@
 
 ## CLOSING (10:45)
 
-> "That brings me to the end of my presentation. The full notebook — with all 10 charts, the variable descriptions, the data wrangling code, and the written analysis — is available on my GitHub.
+> "That brings me to the end of my presentation.
 >
 > I hope this gave you a clear picture of how exploratory data analysis can turn raw sports data into real insights. Thank you so much for listening — I'm happy to take any questions."
 
