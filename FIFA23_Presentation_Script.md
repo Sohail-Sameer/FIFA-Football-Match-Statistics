@@ -12,7 +12,7 @@
 
 > "Good evening everyone. My name is Sameer, and today I'll be presenting my mini project on **FIFA 23 Football Player Statistics Analysis** — an Exploratory Data Analysis project built using Python.
 >
-> Football is the most watched sport in the world, and behind every transfer decision, every squad selection, and every scouting report — there is data. So the idea behind this project was simple: take the official FIFA 23 player dataset, clean it up, and find meaningful patterns that could actually help someone — a club, a scout, or even a fantasy football player — make smarter decisions.
+> So the idea behind this project was simple: take the official FIFA 23 player dataset, clean it up, and find meaningful patterns that could actually help someone — a club, a scout, or even a fantasy football player — make smarter decisions.
 >
 > Let me walk you through how I did that."
 
